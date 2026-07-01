@@ -1,0 +1,13 @@
+fastapi==0.115.0
+uvicorn
+pydantic==2.9.2
+sqlalchemy==2.0.35
+pymysql==1.1.1
+cryptography==43.0.1
+python-multipart==0.0.9
+streamlit==1.38.0
+requests==2.32.3
+pandas==2.2.3
+google-adk
+google-generativeai
+deprecated
